@@ -1,0 +1,22 @@
+body{
+    font-family: 'Reenie Beanie', cursive;
+    background-color:darkcyan;
+    color:crimson;
+    font-size:50px;
+    
+}
+b{
+    font-size:30px;
+}
+.test_imges{
+    background-color:darksalmon;
+    width:450;
+    border-radius:30px;
+    box-shadow: 15px 10px 10px rgb(199, 199, 199);
+}
+.resolution{
+    width:399;
+     background-color:rgb(194, 255, 194);
+     box-shadow: 15px 10px 10px rgb(199, 199, 199);
+     border-radius:30px;
+}
